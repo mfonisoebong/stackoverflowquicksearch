@@ -8,7 +8,7 @@
 
 - 🌱  Go through the code
 
-- 👨‍💻 Implement your idea on the project [https://github.com/ebongmfoniso/](https://github.com/ebongmfoniso/)
+- 👨‍💻 Implement your idea on the project [https://github.com/mfonisoebong/](https://github.com/mfonisoebong/)
 
 - 📫 Make a pull request
 
